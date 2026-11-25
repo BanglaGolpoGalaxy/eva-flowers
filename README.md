@@ -32,3 +32,38 @@ Eva Flowers ফুলের দোকানের জন্য একটি হ�
 ---
 
 ## 📁 ফাইল স্ট্রাকচার
+~/eva-flowers/
+├── index.html          # মূল ড্যাশবোর্ড (এন্ট্রি পয়েন্ট)
+├── main.css            # শেয়ার্ড স্টাইলশিট
+├── main.js             # মূল লজিক ও স্টেট ম্যানেজমেন্ট
+├── README.md           # এই ফাইল
+├── assets/
+│   └── icons/          # আইকন সংরক্ষণের জায়গা
+├── cashbook/           # ক্যাশবুক মডিউল
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+├── chandramallika/     # চন্দ্রমল্লিকা মডিউল
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+├── genda/              # গাঁদা মডিউল
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+├── rajani/             # রজনীগন্ধা মডিউল
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+├── roje/               # গোলাপ মডিউল
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+├── labor/              # লেবার ম্যানেজমেন্ট মডিউল
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+└── misc/               # বিবিধ মডিউল
+├── index.html
+├── script.js
+└── style.css
